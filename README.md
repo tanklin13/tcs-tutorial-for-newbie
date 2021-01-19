@@ -1,1 +1,4 @@
-#tcs-tutorial-for-newbie
+## README
+
+目标：通过本套教程的培训，让新同学快速熟悉TCS。
+
